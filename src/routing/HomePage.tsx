@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 
 const HomePage = () => {
-  throw new Error('something failed'); // redirect based on error
   return (
     <>
       <p>
